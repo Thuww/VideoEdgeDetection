@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* #video, #gl_Canvas {
+    display: block;
+    margin: auto;
+} */
+
+#video, #gl_Canvas {
+    width: 320px;
+    height: 240px;
+}
